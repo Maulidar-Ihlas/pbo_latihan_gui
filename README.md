@@ -119,6 +119,7 @@ Dialog pop-up peringatan yang muncul jika salah satu kolom kosong atau diisi hur
 
 ### 6. Tampilan Setelah Tombol Reset Ditekan
 Kondisi saat tombol **Reset** ditekan, di mana form kembali kosong, hasil kembali ke `Hasil: -`, dan kursor aktif kembali di kolom pertama.
+
 ![Setelah Reset](./screenshots/06_setelah_reset.png)
 
 ---
